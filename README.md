@@ -13,5 +13,5 @@ Open 'code_assignm4' (code/R/code_assignm4'). --> run the code.
 ExPanD was used for displaying the results and is the basis for Table 1: Regression Analysis in the presentation, but are also shown by the subsequent Linear regression model in the code (tab_reg_1, tab_reg_2)
 Selceted figures display the results as well. 
 
-## Presentation
+## PRESENTATION
 The presentation 'Assignm4_Financial Analyst Research_Bianca Minuth' gives further insights into the data preparation, estimation, results, interpretation & limitations as well as the references.
